@@ -1,0 +1,3 @@
+servers:
+  - 'nats://admin:pass@localhost:4222'
+  - 'nats://admin:pass@localhost:4223'
